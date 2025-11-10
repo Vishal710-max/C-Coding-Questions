@@ -50,3 +50,89 @@ It’s ideal for:
 │
 ├── README.md
 
+
+## 🧠 Topics Covered
+
+### 🏗️ Basic Concepts
+- Variables and Data Types  
+- Conditional Statements (`if`, `else`, `switch`)  
+- Loops (`for`, `while`, `do-while`)  
+- Functions and Recursion  
+- Arrays, Strings, and Pointers  
+- Structures, Classes, and Objects  
+- File Handling Basics  
+
+### 💡 Problem Solving
+- Number System Problems  
+- Pattern Printing  
+- Searching and Sorting Algorithms  
+- Mathematical and Logical Problems  
+- String Manipulation  
+- Basic Recursion Examples  
+
+---
+
+## 🛠️ Requirements
+
+- **Compiler:** Any C++ compiler (e.g., GCC, MinGW, Turbo C++, or Visual Studio)
+- **Language Standard:** C++11 or later recommended
+- **IDE (Optional):** Code::Blocks, Dev C++, Visual Studio Code, or CLion
+
+---
+
+## ⚙️ How to Run
+
+1. Clone this repository:
+   git clone https://github.com/<your-username>/Cpp-Coding-Questions.git
+Navigate to the directory:
+
+bash
+
+cd Cpp-Coding-Questions
+Compile any C++ file:
+
+bash
+
+g++ filename.cpp -o output
+Run the program:
+
+bash
+ 
+./output
+📚 Learning Goals
+By completing this repository, you’ll be able to:
+
+Understand core C++ syntax and structure.
+
+Practice problem-solving techniques.
+
+Strengthen your grasp on OOP (Object-Oriented Programming) concepts.
+
+Get ready for technical interviews or coding assessments.
+
+💬 Contribution Guidelines
+Want to contribute? Great!
+You can help by:
+
+Adding new C++ coding problems.
+
+Improving code efficiency or readability.
+
+Contributing detailed comments and explanations.
+
+Steps to contribute:
+
+Fork the repository
+
+Create a new branch (feature/new-problem)
+
+Commit your changes
+
+Open a Pull Request 🎉
+
+
+🌟 Acknowledgments
+
+This repo is built with ❤️ for C++ learners and coding enthusiasts.
+If you find it helpful, don’t forget to ⭐ star the repository to support its growth!
+
