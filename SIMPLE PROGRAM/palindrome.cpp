@@ -22,4 +22,9 @@ int main ()
             cout<<"\nFalse";
         }
     return (0);
+
 }
+
+O/P : n=121 
+      True
+    
