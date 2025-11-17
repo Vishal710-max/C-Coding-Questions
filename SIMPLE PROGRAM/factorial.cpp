@@ -15,6 +15,7 @@ int main ()
 }
 
 
-O/P :enter the no.=5
-    factorial of givin no. 5 :120
+//O/P :enter the no.=5
+//    factorial of givin no. 5 :120
+
 
