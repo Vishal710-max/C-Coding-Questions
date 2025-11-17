@@ -11,4 +11,8 @@ int main ()
     }
     cout<<"factorial of givin no. :"<<f<<endl;
     return 0;
+
 }
+
+
+O/P :factorial of givin no. 5 :120
