@@ -86,7 +86,6 @@ It’s ideal for:
    git clone https://github.com/<your-username>/Cpp-Coding-Questions.git
 Navigate to the directory:
 
-bash
 
 cd Cpp-Coding-Questions
 Compile any C++ file:
