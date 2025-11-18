@@ -22,15 +22,6 @@ It’s ideal for:
 ├── 📂 Basic_Concepts/
 ├── 📂 Simple_Problems/
 ├── 📂 Intermediate_Problems/
-│ ├── binary_search.cpp
-│ ├── linear_search.cpp
-│ ├── insertion_sort.cpp
-│ ├── selection_sort.cpp
-│ ├── recursion_examples.cpp
-│ ├── matrix_operations.cpp
-│ ├── file_handling_basics.cpp
-│ ├── object_oriented_programming_examples.cpp
-│
 ├── README.md
 
 
