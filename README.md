@@ -21,6 +21,7 @@ It’s ideal for:
 │
 ├── 📂 Basic_Concepts/
 ├── 📂 Simple_Problems/
+|   📂 PATTERNS_Problems
 ├── 📂 Intermediate_Problems/
 ├── README.md
 
