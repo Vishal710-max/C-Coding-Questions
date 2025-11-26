@@ -14,3 +14,5 @@ int interpolationSearch(const vector<int>& arr, int target) {
     }
     return -1;
 }
+
+
