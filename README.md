@@ -17,7 +17,7 @@ It’s ideal for:
 
 ## 🧩 Repository Structure
 
-📁 Cpp-Coding-Questions/
+📁 Coding-Questions/
 │
 ├── 📂 Basic_Concepts/
 ├── 📂 Simple_Problems/
@@ -63,6 +63,7 @@ Navigate to the directory:
 
 
 cd  Coding-Questions
+
 Compile any C++ file:
 
 bash
